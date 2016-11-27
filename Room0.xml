@@ -1,0 +1,1208 @@
+<Room>
+  <LevelInfo>
+    <locationx>0</locationx>
+    <locationy>0</locationy>
+  </LevelInfo>
+  <TileSet>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>0</x>
+      <y>0</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>0</x>
+      <y>1</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>2</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>0</x>
+      <y>3</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>4</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>5</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>0</x>
+      <y>6</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>7</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>8</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>0</x>
+      <y>9</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>10</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>11</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>12</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>13</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>0</x>
+      <y>14</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>15</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>16</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>17</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>0</x>
+      <y>18</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>0</x>
+      <y>19</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>1</x>
+      <y>0</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>1</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>1</x>
+      <y>2</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>1</x>
+      <y>3</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>4</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>5</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>6</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>7</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>8</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>9</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>10</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>11</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>1</x>
+      <y>12</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>13</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>14</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>15</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>16</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>1</x>
+      <y>17</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>18</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>1</x>
+      <y>19</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>2</x>
+      <y>0</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>1</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>2</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>3</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>4</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>5</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>6</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>7</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>2</x>
+      <y>8</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>9</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>10</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>11</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>12</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>13</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>14</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>15</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>2</x>
+      <y>16</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>17</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>18</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>2</x>
+      <y>19</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>3</x>
+      <y>0</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>1</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>2</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>3</x>
+      <y>3</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>4</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>5</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>6</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>7</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>8</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>9</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>3</x>
+      <y>10</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>11</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>12</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>3</x>
+      <y>13</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>14</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>15</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>16</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>17</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>18</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>3</x>
+      <y>19</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>4</x>
+      <y>0</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>1</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>2</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>3</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>4</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>4</x>
+      <y>5</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>4</x>
+      <y>6</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>4</x>
+      <y>7</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>4</x>
+      <y>8</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>4</x>
+      <y>9</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>10</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>11</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>4</x>
+      <y>12</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>13</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>14</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>15</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>16</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>4</x>
+      <y>17</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>18</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>4</x>
+      <y>19</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>0</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>1</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>2</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>5</x>
+      <y>3</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>4</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>5</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>6</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>5</x>
+      <y>7</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>8</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>9</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>10</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>11</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>12</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>13</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>14</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>15</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>5</x>
+      <y>16</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>17</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>18</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>5</x>
+      <y>19</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>6</x>
+      <y>0</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>6</x>
+      <y>1</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>2</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>3</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>4</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>5</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>6</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>6</x>
+      <y>7</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>8</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>9</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>10</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>6</x>
+      <y>11</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>12</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>6</x>
+      <y>13</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>14</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>15</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>16</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>17</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>6</x>
+      <y>18</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>6</x>
+      <y>19</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>0</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>1</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>2</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>7</x>
+      <y>3</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>4</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>7</x>
+      <y>5</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>7</x>
+      <y>6</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>7</x>
+      <y>7</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>7</x>
+      <y>8</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>7</x>
+      <y>9</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>10</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>11</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>12</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>13</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>14</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>15</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>16</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>17</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>7</x>
+      <y>18</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>7</x>
+      <y>19</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>8</x>
+      <y>0</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>1</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>8</x>
+      <y>2</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>3</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>4</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>5</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>8</x>
+      <y>6</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>8</x>
+      <y>7</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>8</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>9</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSlevelDesigner\KSlevelDesigner\BlackBox.png</filename>
+      <x>8</x>
+      <y>10</y>
+      <hit>True</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>11</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>12</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>13</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>8</x>
+      <y>14</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>15</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>8</x>
+      <y>16</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>17</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>18</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>8</x>
+      <y>19</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>0</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>1</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>2</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>3</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>4</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>9</x>
+      <y>5</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>6</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>7</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorDark.png</filename>
+      <x>9</x>
+      <y>8</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>9</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>10</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>11</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>12</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>13</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>14</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>15</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>16</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>17</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>18</y>
+      <hit>False</hit>
+    </Tile>
+    <Tile>
+      <filename>C:\Users\Rory\Documents\Visual Studio 2010\Projects\KSshooter\KSshooter\KSshooterContent\FloorLight.png</filename>
+      <x>9</x>
+      <y>19</y>
+      <hit>False</hit>
+    </Tile>
+  </TileSet>
+</Room>
